@@ -1,78 +1,101 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1500539568936">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1501129500393">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3771192037" ref="index:lich-thang"/>
-    <file name="index.css" crc="3866483743" ref="index"/>
-    <file name="lich-thang.css" crc="83950648" ref="lich-thang"/>
+    <file name="master_a-master.css" crc="3993742586" ref="index"/>
+    <file name="index.css" crc="455100879" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lich-thang"/>
-    <file name="museutils.js" crc="46400467" ref="index:lich-thang"/>
-    <file name="whatinput.js" crc="86476730" ref="index:lich-thang"/>
-    <file name="museconfig.js" crc="436936948" ref="index:lich-thang"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:lich-thang"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:lich-thang"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:lich-thang"/>
-    <file name="webpro.js" crc="4152390327" ref="index:lich-thang"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
     <file name="form_check.php" crc="4286608207" ref="index"/>
     <file name="form_throttle.php" crc="313199896" ref="index"/>
     <file name="form_process.php" crc="3855659497" ref="index"/>
     <file name="form-u1663.php" crc="293871137" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:lich-thang"/>
-    <file name="require.js" crc="85721165" ref="index:lich-thang"/>
-    <file name="musewpdisclosure.js" crc="204784597" ref="index:lich-thang"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="lpro50px.png" crc="272970740" ref="index">
+    <file name="xem chu ky_small.png" crc="104350255" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home30px.jpg" crc="3987019371" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tranh_dan_gian_dong_ho_10.jpg" crc="343500249" ref="index">
+    <file name="u1886-4.png" crc="465047223" ref="index"/>
+    <file name="u1781-4.png" crc="243425581" ref="index"/>
+    <file name="u1858-4.png" crc="3901171720" ref="index"/>
+    <file name="u1829-4.png" crc="386848465" ref="index"/>
+    <file name="u1967-4.png" crc="3914175224" ref="index"/>
+    <file name="u1990-4.png" crc="40273925" ref="index"/>
+    <file name="u1933-4.png" crc="3886761902" ref="index"/>
+    <file name="q7u0mf961m9z.jpg" crc="4229089613" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2061-4.png" crc="4077124204" ref="index:lich-thang"/>
-    <file name="u2064-4.png" crc="3924567464" ref="index:lich-thang"/>
-    <file name="u2067-4.png" crc="3997268044" ref="index:lich-thang"/>
-    <file name="u2070-4.png" crc="4069245159" ref="index:lich-thang"/>
-    <file name="u2975-10.png" crc="124086149" ref="index:lich-thang"/>
-    <file name="u2981-4.png" crc="403470099" ref="index:lich-thang"/>
-    <file name="u3105-4.png" crc="33654537" ref="index:lich-thang"/>
-    <file name="u3077-4.png" crc="4013768759" ref="index:lich-thang"/>
-    <file name="u3049-4.png" crc="4193636463" ref="index:lich-thang"/>
-    <file name="u3020-4.png" crc="203951563" ref="index:lich-thang"/>
-    <file name="u3134-4.png" crc="3761125366" ref="index:lich-thang"/>
-    <file name="u3141-4.png" crc="4025843446" ref="index:lich-thang"/>
-    <file name="u3147-4.png" crc="419945483" ref="index:lich-thang"/>
-    <file name="u3164-4.png" crc="93803475" ref="index:lich-thang"/>
-    <file name="u3278-4.png" crc="4003593858" ref="index:lich-thang"/>
-    <file name="u3155-4.png" crc="108888621" ref="index:lich-thang"/>
-    <file name="u3320-4.png" crc="4136501770" ref="index:lich-thang"/>
-    <file name="u3300-4.png" crc="4136323027" ref="index:lich-thang"/>
-    <file name="u3313-4.png" crc="242918191" ref="index:lich-thang"/>
-    <file name="u3333-4.png" crc="4217360756" ref="index:lich-thang"/>
-    <file name="u3304-4.png" crc="33198674" ref="index:lich-thang"/>
-    <file name="u3427-4.png" crc="4218880486" ref="index:lich-thang"/>
-    <file name="u3328-4.png" crc="3874189781" ref="index:lich-thang"/>
-    <file name="target50px.png" crc="3995935738" ref="index">
+    <file name="u5992-4.png" crc="477626026" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u2975.png" crc="4268847875" ref="index"/>
+    <file name="u2975-r.png" crc="158562791" ref="index"/>
+    <file name="bai 6.jpg" crc="150068877" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:lich-thang"/>
-    <file name="u3469.png" crc="4184300798" ref="index:lich-thang"/>
-    <file name="u3469-r.png" crc="4184300798" ref="index:lich-thang"/>
-    <file name="u3978-4.png" crc="3788168652" ref="index:lich-thang"/>
-    <file name="u4120-4.png" crc="4133981670" ref="index:lich-thang"/>
-    <file name="u1886-4.png" crc="465047223" ref="index:lich-thang"/>
-    <file name="u1781-4.png" crc="243425581" ref="index:lich-thang"/>
-    <file name="u1858-4.png" crc="389595552" ref="index:lich-thang"/>
-    <file name="u1829-4.png" crc="6804350" ref="index:lich-thang"/>
-    <file name="u1967-4.png" crc="4028070703" ref="index:lich-thang"/>
-    <file name="u1990-4.png" crc="3877886011" ref="index:lich-thang"/>
-    <file name="u1933-4.png" crc="495337097" ref="index:lich-thang"/>
-    <file name="u1163-6.png" crc="4057157311" ref="index:lich-thang"/>
-    <file name="u3447-4.png" crc="4096248966" ref="index:lich-thang"/>
-    <file name="u177-4.png" crc="482514580" ref="index:lich-thang"/>
+    <file name="tap14.jpg" crc="4168799932" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bai 5.jpg" crc="3931204195" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thinkicon.png" crc="4110502276" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3447-4.png" crc="451053395" ref="index"/>
+    <file name="u6381-4.png" crc="4031324286" ref="index"/>
+    <file name="xckicon.png" crc="353811460" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6392-10.png" crc="192967366" ref="index"/>
+    <file name="u6419-4.png" crc="154667164" ref="index"/>
+    <file name="u6670-4.png" crc="3997434993" ref="index"/>
+    <file name="u6664-4.png" crc="4068282348" ref="index"/>
+    <file name="u6465-8.png" crc="3871011942" ref="index"/>
+    <file name="slideside2.png" crc="4165873377" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6500-8.png" crc="3828891247" ref="index"/>
+    <file name="u6507-8.png" crc="109568845" ref="index"/>
+    <file name="u6492-8.png" crc="4243325332" ref="index"/>
+    <file name="u6473-8.png" crc="3836560689" ref="index"/>
+    <file name="u6477-8.png" crc="61590971" ref="index"/>
+    <file name="u6513-8.png" crc="3958478968" ref="index"/>
+    <file name="u6485-8.png" crc="4030411263" ref="index"/>
+    <file name="u6459-8.png" crc="4181642337" ref="index"/>
+    <file name="u6451-7.png" crc="4045303900" ref="index"/>
+    <file name="u6928-8.png" crc="3928654150" ref="index"/>
+    <file name="u7026-4.png" crc="303433317" ref="index"/>
+    <file name="bookimg.jpg" crc="126418321" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7054-4.png" crc="4133266277" ref="index"/>
+    <file name="u1163-6.png" crc="422591412" ref="index"/>
+    <file name="u6309-6.png" crc="3873141528" ref="index"/>
+    <file name="u6231-6.png" crc="83235867" ref="index"/>
+    <file name="u6289-6.png" crc="208882779" ref="index"/>
+    <file name="u6389-4.png" crc="3886010097" ref="index"/>
+    <file name="u177-4.png" crc="342583212" ref="index"/>
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -80,197 +103,174 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="u213-4.png" crc="308508922" ref="index"/>
+    <file name="u623-4.png" crc="4015317443" ref="index"/>
+    <file name="u595-4.png" crc="4179759295" ref="index"/>
+    <file name="u567-4.png" crc="4285235225" ref="index"/>
+    <file name="u116-4.png" crc="1016344" ref="index"/>
+    <file name="u656-4.png" crc="303000483" ref="index"/>
+    <file name="u5935-4.png" crc="4103356325" ref="index"/>
+    <file name="u5914-4.png" crc="3955898359" ref="index"/>
+    <file name="u5958-4.png" crc="3903068141" ref="index"/>
+    <file name="u357-4.png" crc="3940984085" ref="index"/>
+    <file name="u684-4.png" crc="152383156" ref="index"/>
+    <file name="u709-4.png" crc="3972679207" ref="index"/>
+    <file name="u737-4.png" crc="4178231198" ref="index"/>
+    <file name="u763-4.png" crc="4197539625" ref="index"/>
+    <file name="u329-4.png" crc="3841830522" ref="index"/>
+    <file name="u796-4.png" crc="411325252" ref="index"/>
+    <file name="u876-4.png" crc="3845560082" ref="index"/>
+    <file name="u848-4.png" crc="336282550" ref="index"/>
+    <file name="u820-4.png" crc="145324844" ref="index"/>
+    <file name="u301-4.png" crc="3890639758" ref="index"/>
+    <file name="u908-4.png" crc="202546242" ref="index"/>
+    <file name="u987-4.png" crc="178700369" ref="index"/>
+    <file name="u959-4.png" crc="53398792" ref="index"/>
+    <file name="u931-4.png" crc="4103351405" ref="index"/>
+    <file name="u273-4.png" crc="52990822" ref="index"/>
+    <file name="u1020-4.png" crc="4074917597" ref="index"/>
+    <file name="u1100-4.png" crc="24154168" ref="index"/>
+    <file name="u1072-4.png" crc="499754136" ref="index"/>
+    <file name="u1044-4.png" crc="177180374" ref="index"/>
+    <file name="tap20.jpg" crc="228790344" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u213-4.png" crc="433997916" ref="index:lich-thang"/>
-    <file name="u623-4.png" crc="362493418" ref="index:lich-thang"/>
-    <file name="u595-4.png" crc="186575908" ref="index:lich-thang"/>
-    <file name="u567-4.png" crc="378056786" ref="index:lich-thang"/>
-    <file name="u116-4.png" crc="460558188" ref="index:lich-thang"/>
-    <file name="u656-4.png" crc="3858388867" ref="index:lich-thang"/>
-    <file name="u357-4.png" crc="4134332122" ref="index:lich-thang"/>
-    <file name="u684-4.png" crc="4952419" ref="index:lich-thang"/>
-    <file name="u709-4.png" crc="4146469285" ref="index:lich-thang"/>
-    <file name="u737-4.png" crc="3825803740" ref="index:lich-thang"/>
-    <file name="u763-4.png" crc="4158729053" ref="index:lich-thang"/>
-    <file name="u329-4.png" crc="3807501271" ref="index:lich-thang"/>
-    <file name="u796-4.png" crc="4146296845" ref="index:lich-thang"/>
-    <file name="u876-4.png" crc="15401533" ref="index:lich-thang"/>
-    <file name="u848-4.png" crc="317182074" ref="index:lich-thang"/>
-    <file name="u820-4.png" crc="47543957" ref="index:lich-thang"/>
-    <file name="u301-4.png" crc="4218642242" ref="index:lich-thang"/>
-    <file name="u908-4.png" crc="292806008" ref="index:lich-thang"/>
-    <file name="u987-4.png" crc="3764503137" ref="index:lich-thang"/>
-    <file name="u959-4.png" crc="4232759998" ref="index:lich-thang"/>
-    <file name="u931-4.png" crc="171422978" ref="index:lich-thang"/>
-    <file name="u273-4.png" crc="3795187504" ref="index:lich-thang"/>
-    <file name="u1020-4.png" crc="4240736288" ref="index:lich-thang"/>
-    <file name="u1100-4.png" crc="138702887" ref="index:lich-thang"/>
-    <file name="u1072-4.png" crc="3986463550" ref="index:lich-thang"/>
-    <file name="u1044-4.png" crc="3952158072" ref="index:lich-thang"/>
-    <file name="u245-4.png" crc="288059521" ref="index:lich-thang"/>
-    <file name="u1132-4.png" crc="317182074" ref="index:lich-thang"/>
-    <file name="u4095-4.png" crc="4267224765" ref="index:lich-thang"/>
-    <file name="u4146-4.png" crc="13959398" ref="index:lich-thang"/>
-    <file name="u2773-4.png" crc="4196611701" ref="index:lich-thang"/>
-    <file name="u2827-4.png" crc="176520080" ref="index:lich-thang"/>
-    <file name="u1675.png" crc="4213662923" ref="index:lich-thang"/>
-    <file name="u1675-r.png" crc="4184714438" ref="index:lich-thang"/>
-    <file name="u1675-m.png" crc="517616309" ref="index:lich-thang"/>
-    <file name="u1675-fs.png" crc="513314608" ref="index:lich-thang"/>
-    <file name="u2857-4.png" crc="156846444" ref="index:lich-thang"/>
-    <file name="u2938-4.png" crc="354832442" ref="index:lich-thang"/>
-    <file name="u2909-4.png" crc="41890583" ref="index:lich-thang"/>
-    <file name="u2960-13.png" crc="4194837726" ref="index:lich-thang"/>
-    <file name="u2964-9.png" crc="364374143" ref="index:lich-thang"/>
-    <file name="u2971-5.png" crc="506298477" ref="index:lich-thang"/>
-    <file name="u2968-4.png" crc="323006042" ref="index:lich-thang"/>
-    <file name="u2107-4.png" crc="50030595" ref="index:lich-thang"/>
-    <file name="u2463-4.png" crc="4172989010" ref="index:lich-thang"/>
-    <file name="u2435-4.png" crc="528146602" ref="index:lich-thang"/>
-    <file name="u2407-4.png" crc="206251502" ref="index:lich-thang"/>
-    <file name="u2379-4.png" crc="4062722063" ref="index:lich-thang"/>
-    <file name="u2351-4.png" crc="187537722" ref="index:lich-thang"/>
-    <file name="u2323-4.png" crc="360188" ref="index:lich-thang"/>
-    <file name="u2295-4.png" crc="3990301706" ref="index:lich-thang"/>
-    <file name="u2267-4.png" crc="4289412387" ref="index:lich-thang"/>
-    <file name="u2239-4.png" crc="3765479227" ref="index:lich-thang"/>
-    <file name="u2211-4.png" crc="3941651188" ref="index:lich-thang"/>
-    <file name="u2182-4.png" crc="4167357204" ref="index:lich-thang"/>
-    <file name="u2744-4.png" crc="4291541327" ref="index:lich-thang"/>
-    <file name="u2716-4.png" crc="95456031" ref="index:lich-thang"/>
-    <file name="u2688-4.png" crc="4103735532" ref="index:lich-thang"/>
-    <file name="u2660-4.png" crc="380377211" ref="index:lich-thang"/>
-    <file name="u2632-4.png" crc="407102892" ref="index:lich-thang"/>
-    <file name="u2604-4.png" crc="3947477257" ref="index:lich-thang"/>
-    <file name="u2576-4.png" crc="4249934547" ref="index:lich-thang"/>
-    <file name="u2548-4.png" crc="4204758248" ref="index:lich-thang"/>
-    <file name="u2520-4.png" crc="153893624" ref="index:lich-thang"/>
-    <file name="u3503-4.png" crc="303863465" ref="index:lich-thang"/>
-    <file name="u3482-4.png" crc="505278347" ref="index:lich-thang"/>
-    <file name="u4151-4.png" crc="4000033786" ref="index:lich-thang"/>
-    <file name="search128px.png" crc="4249554238" ref="index">
+    <file name="u6237-6.png" crc="3921140210" ref="index"/>
+    <file name="bai3.jpg" crc="419841393" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u4195-4.png" crc="143593401" ref="index:lich-thang"/>
-    <file name="u4222.png" crc="79608486" ref="index:lich-thang"/>
-    <file name="u4222-a.png" crc="79608486" ref="index:lich-thang"/>
-    <file name="u4227.png" crc="4083721375" ref="index:lich-thang"/>
-    <file name="u4227-a.png" crc="4083721375" ref="index:lich-thang"/>
-    <file name="u4218.png" crc="3910011990" ref="index:lich-thang"/>
-    <file name="u4218-a.png" crc="3910011990" ref="index:lich-thang"/>
-    <file name="u4212-4.png" crc="445205196" ref="index:lich-thang"/>
-    <file name="u4206-4.png" crc="4065370456" ref="index:lich-thang"/>
-    <file name="u4210-4.png" crc="127459067" ref="index:lich-thang"/>
-    <file name="u4462-4.png" crc="4019204601" ref="index:lich-thang"/>
-    <file name="u4599-4.png" crc="4053589428" ref="index:lich-thang"/>
-    <file name="u4629-4.png" crc="4073509603" ref="index:lich-thang"/>
-    <file name="u4606-4.png" crc="120937847" ref="index:lich-thang"/>
-    <file name="u4611-4.png" crc="3834138319" ref="index:lich-thang"/>
-    <file name="u4620-4.png" crc="3890013357" ref="index:lich-thang"/>
-    <file name="u4636-4.png" crc="68254664" ref="index:lich-thang"/>
-    <file name="u4726-4.png" crc="118568967" ref="index:lich-thang"/>
-    <file name="u4768-4.png" crc="4247734115" ref="index:lich-thang"/>
-    <file name="u4789-4.png" crc="3905286106" ref="index:lich-thang"/>
-    <file name="u4783-4.png" crc="70443183" ref="index:lich-thang"/>
-    <file name="u4749-4.png" crc="3910955299" ref="index:lich-thang"/>
-    <file name="u4763-4.png" crc="313578628" ref="index:lich-thang"/>
-    <file name="u4754-4.png" crc="3883047248" ref="index:lich-thang"/>
-    <file name="u4777-4.png" crc="193642505" ref="index:lich-thang"/>
-    <file name="u4943-4.png" crc="86991239" ref="index:lich-thang"/>
-    <file name="u4914-4.png" crc="526184849" ref="index:lich-thang"/>
-    <file name="u4919-4.png" crc="7970070" ref="index:lich-thang"/>
-    <file name="u4899-4.png" crc="181256572" ref="index:lich-thang"/>
-    <file name="u4905-4.png" crc="496820033" ref="index:lich-thang"/>
-    <file name="u4933-4.png" crc="4270327497" ref="index:lich-thang"/>
-    <file name="u4927-4.png" crc="4053911562" ref="index:lich-thang"/>
-    <file name="728x90.jpg" crc="4155994860" ref="index">
+    <file name="u6234-6.png" crc="8330034" ref="index"/>
+    <file name="tap17.jpg" crc="189783511" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5573-4.png" crc="386350189" ref="index:lich-thang"/>
-    <file name="u5576-4.png" crc="262212724" ref="index:lich-thang"/>
-    <file name="u4198-9.png" crc="4280328882" ref="index:lich-thang"/>
-    <file name="u5588-4.png" crc="35465923" ref="index:lich-thang"/>
-    <file name="u5047-12.png" crc="4185382279" ref="index:lich-thang"/>
-    <file name="u5056-12.png" crc="4237166722" ref="index:lich-thang"/>
-    <file name="u5059-12.png" crc="482465571" ref="index:lich-thang"/>
-    <file name="u5062-12.png" crc="3810228380" ref="index:lich-thang"/>
-    <file name="u5065-4.png" crc="4238825006" ref="index:lich-thang"/>
-    <file name="thumb1.jpg" crc="4239785339" ref="index">
+    <file name="u6290-6.png" crc="3873141528" ref="index"/>
+    <file name="u6719-8.png" crc="271297544" ref="index"/>
+    <file name="slideside.png" crc="324025974" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5618-4.png" crc="3793621650" ref="index:lich-thang"/>
-    <file name="thumb2.jpg" crc="143877191" ref="index">
+    <file name="u6760-8.png" crc="260537511" ref="index"/>
+    <file name="u6734-8.png" crc="4250517988" ref="index"/>
+    <file name="u6740-8.png" crc="460222177" ref="index"/>
+    <file name="u6712-8.png" crc="3941800617" ref="index"/>
+    <file name="u6754-8.png" crc="28745081" ref="index"/>
+    <file name="u6775-8.png" crc="357655250" ref="index"/>
+    <file name="u6726-8.png" crc="4209376244" ref="index"/>
+    <file name="u6747-8.png" crc="84552674" ref="index"/>
+    <file name="u6769-7.png" crc="288599945" ref="index"/>
+    <file name="u7045-8.png" crc="521690716" ref="index"/>
+    <file name="u7048-4.png" crc="423676475" ref="index"/>
+    <file name="u7051-4.png" crc="4009256030" ref="index"/>
+    <file name="u2773-10.png" crc="171827144" ref="index"/>
+    <file name="u2827-10.png" crc="4285629327" ref="index"/>
+    <file name="u6020-10.png" crc="34600594" ref="index"/>
+    <file name="u6041-11.png" crc="3942181633" ref="index"/>
+    <file name="u6062-11.png" crc="4263329073" ref="index"/>
+    <file name="u5999-10.png" crc="4103539352" ref="index"/>
+    <file name="u6144-10.png" crc="4015077378" ref="index"/>
+    <file name="u6123-10.png" crc="428548105" ref="index"/>
+    <file name="u6102-11.png" crc="4259311912" ref="index"/>
+    <file name="u6081-11.png" crc="100231673" ref="index"/>
+    <file name="u1675.png" crc="4213662923" ref="index"/>
+    <file name="u1675-r.png" crc="4184714438" ref="index"/>
+    <file name="u1675-m.png" crc="517616309" ref="index"/>
+    <file name="u1675-fs.png" crc="513314608" ref="index"/>
+    <file name="u6932-4.png" crc="3849356307" ref="index"/>
+    <file name="u7020-4.png" crc="215874578" ref="index"/>
+    <file name="thumb1.jpg" crc="4102375179" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5621-4.png" crc="3981359462" ref="index:lich-thang"/>
-    <file name="joshua-newton-143838.jpg" crc="23645643" ref="index">
+    <file name="u5618-4.png" crc="279720854" ref="index"/>
+    <file name="thumb2.jpg" crc="3956262162" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5624-4.png" crc="3895171983" ref="index:lich-thang"/>
+    <file name="u6316-4.png" crc="471624330" ref="index"/>
+    <file name="joshua-newton-143838.jpg" crc="4262821793" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6319-4.png" crc="465324097" ref="index"/>
+    <file name="u6341-4.png" crc="279720854" ref="index"/>
+    <file name="u6342-4.png" crc="471624330" ref="index"/>
+    <file name="u6343-4.png" crc="465324097" ref="index"/>
+    <file name="u7014-4.png" crc="308758123" ref="index"/>
+    <file name="fb128px.png" crc="3811701297" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gplus.png" crc="338046656" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3893893301" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6951-6.png" crc="4147715191" ref="index"/>
+    <file name="u6955-6.png" crc="220062104" ref="index"/>
+    <file name="u6968-6.png" crc="335675153" ref="index"/>
+    <file name="ytube.png" crc="4061132468" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email.png" crc="319388460" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6982-6.png" crc="4274828338" ref="index"/>
+    <file name="u7001-6.png" crc="3969824338" ref="index"/>
+    <file name="u2107-4.png" crc="4176474696" ref="index"/>
+    <file name="u2463-4.png" crc="213691159" ref="index"/>
+    <file name="u2435-4.png" crc="4252611660" ref="index"/>
+    <file name="u2407-4.png" crc="258369501" ref="index"/>
+    <file name="u2379-4.png" crc="4257386066" ref="index"/>
+    <file name="u2351-4.png" crc="4182603473" ref="index"/>
+    <file name="u2323-4.png" crc="4146260848" ref="index"/>
+    <file name="u2295-4.png" crc="3977628463" ref="index"/>
+    <file name="u2267-4.png" crc="134079310" ref="index"/>
+    <file name="u2239-4.png" crc="163470285" ref="index"/>
+    <file name="u2211-4.png" crc="4125168198" ref="index"/>
+    <file name="u2182-4.png" crc="3960622148" ref="index"/>
+    <file name="u2744-4.png" crc="4137597965" ref="index"/>
+    <file name="u2716-4.png" crc="169882813" ref="index"/>
+    <file name="u2688-4.png" crc="3980613643" ref="index"/>
+    <file name="u2660-4.png" crc="274649781" ref="index"/>
+    <file name="u2632-4.png" crc="3818242024" ref="index"/>
+    <file name="u2604-4.png" crc="4071759964" ref="index"/>
+    <file name="u2576-4.png" crc="154749958" ref="index"/>
+    <file name="u2548-4.png" crc="4143393703" ref="index"/>
+    <file name="u2520-4.png" crc="355822323" ref="index"/>
+    <file name="u3503-4.png" crc="469778481" ref="index"/>
+    <file name="u3482-4.png" crc="3966793935" ref="index"/>
+    <file name="u4151-4.png" crc="4179621637" ref="index"/>
     <file name="adsquare.jpg" crc="4255796540" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="squaread2.jpg" crc="504661603" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5649-4.png" crc="383894" ref="index:lich-thang"/>
-    <file name="giotothomnay.png" crc="4238308051" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ngaytottheotuoi.png" crc="4017334781" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sosanhngay.jpg" crc="3911538789" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lichthangamlich.jpg" crc="330213661" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u5671-4.png" crc="322808874" ref="index:lich-thang"/>
-    <file name="u5701-4.png" crc="4128998700" ref="index:lich-thang"/>
-    <file name="u5715-4.png" crc="3970914519" ref="index:lich-thang"/>
-    <file name="u5729-4.png" crc="3863820803" ref="index:lich-thang"/>
-    <file name="cunghoangdao.jpg" crc="420738610" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="baicungdangian.jpg" crc="245405965" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="giaimagiacmo.jpg" crc="4281511430" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tuvi.jpg" crc="60824094" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="squaread3.jpg" crc="68110876" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5742-4.png" crc="326820695" ref="index:lich-thang"/>
-    <file name="u5754-4.png" crc="396906543" ref="index:lich-thang"/>
-    <file name="u5757-4.png" crc="4190242638" ref="index:lich-thang"/>
-    <file name="u5760-4.png" crc="148171715" ref="index:lich-thang"/>
-    <file name="xinquekinhdich.jpg" crc="3850384708" ref="index">
+    <file name="search128px.png" crc="4249554238" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="boidanhtu.jpg" crc="45347044" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bimatngaysinh.jpg" crc="4044407042" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="quethatbao.jpg" crc="416136720" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u5788-4.png" crc="205412638" ref="index:lich-thang"/>
-    <file name="u5792-4.png" crc="3897778073" ref="index:lich-thang"/>
-    <file name="u5793-4.png" crc="3859254590" ref="index:lich-thang"/>
-    <file name="u5794-4.png" crc="324541431" ref="index:lich-thang"/>
-    <file name="lichthang.jpg" crc="3914401182" ref="lich-thang">
-      <caption webpage="lich-thang" alt=""/>
-    </file>
-    <file name="u5899-6.png" crc="4225444044" ref="lich-thang"/>
   </folder>
-  <file name="index.html" crc="3959597702" seo="true" mt="1500539549505" redirect="true"/>
-  <file name="lich-thang.html" crc="505217540" seo="true" mt="1500539549505" redirect="true"/>
+  <file name="index.html" crc="4249318615" seo="true" mt="1501129489039" redirect="true"/>
 </manifest>
