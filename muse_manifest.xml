@@ -1,265 +1,196 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1501129500393">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1501495854328">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3993742586" ref="index"/>
-    <file name="index.css" crc="455100879" ref="index"/>
+    <file name="site_global.css" crc="3793497872"/>
+    <file name="master_a-master.css" crc="3895396949" ref="index"/>
+    <file name="index.css" crc="474238936" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="46400467" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="436936948" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
-    <file name="webpro.js" crc="4152390327" ref="index"/>
-    <file name="form_check.php" crc="4286608207" ref="index"/>
-    <file name="form_throttle.php" crc="313199896" ref="index"/>
-    <file name="form_process.php" crc="3855659497" ref="index"/>
-    <file name="form-u1663.php" crc="293871137" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="85721165" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u1663.php" crc="239665941" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="xem chu ky_small.png" crc="104350255" ref="index">
+    <file name="favicon.ico" crc="4273574922" ref="phone>index"/>
+    <file name="xem chu ky_small.png" crc="104350255" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="home30px.jpg" crc="3987019371" ref="index">
+    <file name="wsearch64px.png" crc="4196498231" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1886-4.png" crc="465047223" ref="index"/>
-    <file name="u1781-4.png" crc="243425581" ref="index"/>
-    <file name="u1858-4.png" crc="3901171720" ref="index"/>
-    <file name="u1829-4.png" crc="386848465" ref="index"/>
-    <file name="u1967-4.png" crc="3914175224" ref="index"/>
-    <file name="u1990-4.png" crc="40273925" ref="index"/>
-    <file name="u1933-4.png" crc="3886761902" ref="index"/>
-    <file name="q7u0mf961m9z.jpg" crc="4229089613" ref="index">
+    <file name="q7u0mf961m9z.jpg" crc="3811924267" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5992-4.png" crc="477626026" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u2975.png" crc="4268847875" ref="index"/>
-    <file name="u2975-r.png" crc="158562791" ref="index"/>
-    <file name="bai 6.jpg" crc="150068877" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tap14.jpg" crc="4168799932" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bai 5.jpg" crc="3931204195" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thinkicon.png" crc="4110502276" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u3447-4.png" crc="451053395" ref="index"/>
-    <file name="u6381-4.png" crc="4031324286" ref="index"/>
-    <file name="xckicon.png" crc="353811460" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6392-10.png" crc="192967366" ref="index"/>
-    <file name="u6419-4.png" crc="154667164" ref="index"/>
-    <file name="u6670-4.png" crc="3997434993" ref="index"/>
-    <file name="u6664-4.png" crc="4068282348" ref="index"/>
-    <file name="u6465-8.png" crc="3871011942" ref="index"/>
-    <file name="slideside2.png" crc="4165873377" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="thumb1.jpg" crc="3770858799" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6500-8.png" crc="3828891247" ref="index"/>
-    <file name="u6507-8.png" crc="109568845" ref="index"/>
-    <file name="u6492-8.png" crc="4243325332" ref="index"/>
-    <file name="u6473-8.png" crc="3836560689" ref="index"/>
-    <file name="u6477-8.png" crc="61590971" ref="index"/>
-    <file name="u6513-8.png" crc="3958478968" ref="index"/>
-    <file name="u6485-8.png" crc="4030411263" ref="index"/>
-    <file name="u6459-8.png" crc="4181642337" ref="index"/>
-    <file name="u6451-7.png" crc="4045303900" ref="index"/>
-    <file name="u6928-8.png" crc="3928654150" ref="index"/>
-    <file name="u7026-4.png" crc="303433317" ref="index"/>
-    <file name="bookimg.jpg" crc="126418321" ref="index">
+    <file name="thumb2.jpg" crc="4045883378" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u7054-4.png" crc="4133266277" ref="index"/>
-    <file name="u1163-6.png" crc="422591412" ref="index"/>
-    <file name="u6309-6.png" crc="3873141528" ref="index"/>
-    <file name="u6231-6.png" crc="83235867" ref="index"/>
-    <file name="u6289-6.png" crc="208882779" ref="index"/>
-    <file name="u6389-4.png" crc="3886010097" ref="index"/>
-    <file name="u177-4.png" crc="342583212" ref="index"/>
+    <file name="joshua-newton-143838.jpg" crc="377081355" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideside.png" crc="324025974" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xckicon.png" crc="353811460" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideside2.png" crc="4165873377" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bai 6.jpg" crc="63533904" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tap20.jpg" crc="4087369933" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tap14.jpg" crc="4213152031" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bai3.jpg" crc="4047807489" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bai 5.jpg" crc="4286704057" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tap17.jpg" crc="370267119" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bookimg.jpg" crc="126418321" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tran tuan anh.png" crc="130210398" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb128px.png" crc="3811701297" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gplus.png" crc="338046656" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3893893301" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ytube.png" crc="4061132468" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email.png" crc="319388460" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="search128px.png" crc="4249554238" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u213-4.png" crc="308508922" ref="index"/>
-    <file name="u623-4.png" crc="4015317443" ref="index"/>
-    <file name="u595-4.png" crc="4179759295" ref="index"/>
-    <file name="u567-4.png" crc="4285235225" ref="index"/>
-    <file name="u116-4.png" crc="1016344" ref="index"/>
-    <file name="u656-4.png" crc="303000483" ref="index"/>
-    <file name="u5935-4.png" crc="4103356325" ref="index"/>
-    <file name="u5914-4.png" crc="3955898359" ref="index"/>
-    <file name="u5958-4.png" crc="3903068141" ref="index"/>
-    <file name="u357-4.png" crc="3940984085" ref="index"/>
-    <file name="u684-4.png" crc="152383156" ref="index"/>
-    <file name="u709-4.png" crc="3972679207" ref="index"/>
-    <file name="u737-4.png" crc="4178231198" ref="index"/>
-    <file name="u763-4.png" crc="4197539625" ref="index"/>
-    <file name="u329-4.png" crc="3841830522" ref="index"/>
-    <file name="u796-4.png" crc="411325252" ref="index"/>
-    <file name="u876-4.png" crc="3845560082" ref="index"/>
-    <file name="u848-4.png" crc="336282550" ref="index"/>
-    <file name="u820-4.png" crc="145324844" ref="index"/>
-    <file name="u301-4.png" crc="3890639758" ref="index"/>
-    <file name="u908-4.png" crc="202546242" ref="index"/>
-    <file name="u987-4.png" crc="178700369" ref="index"/>
-    <file name="u959-4.png" crc="53398792" ref="index"/>
-    <file name="u931-4.png" crc="4103351405" ref="index"/>
-    <file name="u273-4.png" crc="52990822" ref="index"/>
-    <file name="u1020-4.png" crc="4074917597" ref="index"/>
-    <file name="u1100-4.png" crc="24154168" ref="index"/>
-    <file name="u1072-4.png" crc="499754136" ref="index"/>
-    <file name="u1044-4.png" crc="177180374" ref="index"/>
-    <file name="tap20.jpg" crc="228790344" ref="index">
+    <file name="home30px.jpg" crc="3987019371" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6237-6.png" crc="3921140210" ref="index"/>
-    <file name="bai3.jpg" crc="419841393" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6234-6.png" crc="8330034" ref="index"/>
-    <file name="tap17.jpg" crc="189783511" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6290-6.png" crc="3873141528" ref="index"/>
-    <file name="u6719-8.png" crc="271297544" ref="index"/>
-    <file name="slideside.png" crc="324025974" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6760-8.png" crc="260537511" ref="index"/>
-    <file name="u6734-8.png" crc="4250517988" ref="index"/>
-    <file name="u6740-8.png" crc="460222177" ref="index"/>
-    <file name="u6712-8.png" crc="3941800617" ref="index"/>
-    <file name="u6754-8.png" crc="28745081" ref="index"/>
-    <file name="u6775-8.png" crc="357655250" ref="index"/>
-    <file name="u6726-8.png" crc="4209376244" ref="index"/>
-    <file name="u6747-8.png" crc="84552674" ref="index"/>
-    <file name="u6769-7.png" crc="288599945" ref="index"/>
-    <file name="u7045-8.png" crc="521690716" ref="index"/>
-    <file name="u7048-4.png" crc="423676475" ref="index"/>
-    <file name="u7051-4.png" crc="4009256030" ref="index"/>
-    <file name="u2773-10.png" crc="171827144" ref="index"/>
-    <file name="u2827-10.png" crc="4285629327" ref="index"/>
-    <file name="u6020-10.png" crc="34600594" ref="index"/>
-    <file name="u6041-11.png" crc="3942181633" ref="index"/>
-    <file name="u6062-11.png" crc="4263329073" ref="index"/>
-    <file name="u5999-10.png" crc="4103539352" ref="index"/>
-    <file name="u6144-10.png" crc="4015077378" ref="index"/>
-    <file name="u6123-10.png" crc="428548105" ref="index"/>
-    <file name="u6102-11.png" crc="4259311912" ref="index"/>
-    <file name="u6081-11.png" crc="100231673" ref="index"/>
     <file name="u1675.png" crc="4213662923" ref="index"/>
     <file name="u1675-r.png" crc="4184714438" ref="index"/>
     <file name="u1675-m.png" crc="517616309" ref="index"/>
     <file name="u1675-fs.png" crc="513314608" ref="index"/>
-    <file name="u6932-4.png" crc="3849356307" ref="index"/>
-    <file name="u7020-4.png" crc="215874578" ref="index"/>
-    <file name="thumb1.jpg" crc="4102375179" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="thinkicon.png" crc="4110502276" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5618-4.png" crc="279720854" ref="index"/>
-    <file name="thumb2.jpg" crc="3956262162" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6316-4.png" crc="471624330" ref="index"/>
-    <file name="joshua-newton-143838.jpg" crc="4262821793" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6319-4.png" crc="465324097" ref="index"/>
-    <file name="u6341-4.png" crc="279720854" ref="index"/>
-    <file name="u6342-4.png" crc="471624330" ref="index"/>
-    <file name="u6343-4.png" crc="465324097" ref="index"/>
-    <file name="u7014-4.png" crc="308758123" ref="index"/>
-    <file name="fb128px.png" crc="3811701297" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gplus.png" crc="338046656" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter.png" crc="3893893301" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6951-6.png" crc="4147715191" ref="index"/>
-    <file name="u6955-6.png" crc="220062104" ref="index"/>
-    <file name="u6968-6.png" crc="335675153" ref="index"/>
-    <file name="ytube.png" crc="4061132468" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="email.png" crc="319388460" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6982-6.png" crc="4274828338" ref="index"/>
-    <file name="u7001-6.png" crc="3969824338" ref="index"/>
-    <file name="u2107-4.png" crc="4176474696" ref="index"/>
-    <file name="u2463-4.png" crc="213691159" ref="index"/>
-    <file name="u2435-4.png" crc="4252611660" ref="index"/>
-    <file name="u2407-4.png" crc="258369501" ref="index"/>
-    <file name="u2379-4.png" crc="4257386066" ref="index"/>
-    <file name="u2351-4.png" crc="4182603473" ref="index"/>
-    <file name="u2323-4.png" crc="4146260848" ref="index"/>
-    <file name="u2295-4.png" crc="3977628463" ref="index"/>
-    <file name="u2267-4.png" crc="134079310" ref="index"/>
-    <file name="u2239-4.png" crc="163470285" ref="index"/>
-    <file name="u2211-4.png" crc="4125168198" ref="index"/>
-    <file name="u2182-4.png" crc="3960622148" ref="index"/>
-    <file name="u2744-4.png" crc="4137597965" ref="index"/>
-    <file name="u2716-4.png" crc="169882813" ref="index"/>
-    <file name="u2688-4.png" crc="3980613643" ref="index"/>
-    <file name="u2660-4.png" crc="274649781" ref="index"/>
-    <file name="u2632-4.png" crc="3818242024" ref="index"/>
-    <file name="u2604-4.png" crc="4071759964" ref="index"/>
-    <file name="u2576-4.png" crc="154749958" ref="index"/>
-    <file name="u2548-4.png" crc="4143393703" ref="index"/>
-    <file name="u2520-4.png" crc="355822323" ref="index"/>
-    <file name="u3503-4.png" crc="469778481" ref="index"/>
-    <file name="u3482-4.png" crc="3966793935" ref="index"/>
-    <file name="u4151-4.png" crc="4179621637" ref="index"/>
-    <file name="adsquare.jpg" crc="4255796540" ref="index">
+    <file name="squaread1.jpg" crc="3921788045" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="squaread2.jpg" crc="504661603" ref="index">
@@ -268,9 +199,13 @@
     <file name="squaread3.jpg" crc="68110876" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="search128px.png" crc="4249554238" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4249318615" seo="true" mt="1501129489039" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3951360384" ref="phone>index"/>
+      <file name="index.css" crc="238937868" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="136735139" seo="true" mt="1501495833523" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="343395486" seo="true" mt="1501495262573" redirect="true"/>
 </manifest>
