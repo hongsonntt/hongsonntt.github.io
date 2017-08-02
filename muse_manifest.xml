@@ -1,86 +1,129 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1501579392058">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1501665859171">
   <folder name="css">
     <file name="site_global.css" crc="3793497872"/>
-    <file name="master_a-master.css" crc="3764506469" ref="index:404"/>
-    <file name="index.css" crc="3786095731" ref="index"/>
-    <file name="404.css" crc="384355785" ref="404"/>
+    <file name="master_a-master.css" crc="350521103" ref="index:404:xem-chữ-ký:bài-viết-mẫu"/>
+    <file name="index.css" crc="4177046383" ref="index"/>
+    <file name="404.css" crc="3896374215" ref="404"/>
+    <file name="xem-ch_-k_.css" crc="220614539" ref="xem-chữ-ký"/>
+    <file name="b_i-vi_t-m_u.css" crc="4058239137" ref="bài-viết-mẫu"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:404"/>
-    <file name="museutils.js" crc="4216313831" ref="phone>index:index:404"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index:404"/>
-    <file name="museconfig.js" crc="474374037" ref="phone>index:index:404"/>
-    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:index:404"/>
-    <file name="webpro.js" crc="4143865194" ref="phone>index:index:404"/>
-    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index:404"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:index:404"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index:404"/>
-    <file name="require.js" crc="3951022091" ref="phone>index:index:404"/>
-    <file name="form_check.php" crc="154010282" ref="index:404"/>
-    <file name="form_throttle.php" crc="266437015" ref="index:404"/>
-    <file name="form_process.php" crc="512629711" ref="index:404"/>
-    <file name="form-u1663.php" crc="239665941" ref="index:404"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>index:index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u1663.php" crc="239665941" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="xem-chữ-ký:phone>xem-chữ-ký"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="xem-chữ-ký:phone>xem-chữ-ký"/>
+    <file name="touchswipe.js" crc="4200445185" ref="xem-chữ-ký:phone>xem-chữ-ký"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="389977244" ref="phone>index:index:404"/>
-    <file name="xem chu ky_small.png" crc="104350255" ref="phone>index:index:404">
-      <caption webpage="404" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="q7u0mf961m9z.jpg" crc="3811924267" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thumb1.jpg" crc="3770858799" ref="phone>index:index:404">
-      <caption webpage="404" alt=""/>
+    <file name="favicon.ico" crc="4273574922" ref="phone>index"/>
+    <file name="xem chu ky_small.png" crc="104350255" ref="phone>index:index">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb2.jpg" crc="4045883378" ref="phone>index:index:404">
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
+    <file name="q7u0mf961m9z.jpg" crc="3811924267" ref="phone>index:index:phone>bài-viết-mẫu:bài-viết-mẫu">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="joshua-newton-143838.jpg" crc="377081355" ref="phone>index:index:404">
+    <file name="thumb1.jpg" crc="3770858799" ref="phone>index:index:404:phone>bài-viết-mẫu:bài-viết-mẫu">
       <caption webpage="404" alt=""/>
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="slideside.png" crc="324025974" ref="phone>index:index">
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
+    <file name="thumb2.jpg" crc="4045883378" ref="phone>index:index:404:phone>bài-viết-mẫu:bài-viết-mẫu">
       <caption webpage="404" alt=""/>
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="xckicon.png" crc="353811460" ref="index">
+    <file name="joshua-newton-143838.jpg" crc="377081355" ref="phone>index:index:404:phone>bài-viết-mẫu:bài-viết-mẫu">
+      <caption webpage="404" alt=""/>
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+    </file>
+    <file name="slideside.png" crc="324025974" ref="phone>index:index:phone>bài-viết-mẫu">
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+    </file>
+    <file name="xckicon.png" crc="353811460" ref="index:xem-chữ-ký">
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
     </file>
     <file name="slideside2.png" crc="4165873377" ref="phone>index:index">
       <caption webpage="404" alt=""/>
@@ -101,27 +144,43 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="bai 6.jpg" crc="63533904" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tap20.jpg" crc="4087369933" ref="phone>index">
+    <file name="bai 6.jpg" crc="63533904" ref="phone>index:bài-viết-mẫu">
       <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="tap14.jpg" crc="4213152031" ref="phone>index">
+    <file name="tap20.jpg" crc="4087369933" ref="phone>index:bài-viết-mẫu">
       <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="bai3.jpg" crc="4047807489" ref="phone>index">
+    <file name="tap14.jpg" crc="4213152031" ref="phone>index:bài-viết-mẫu">
       <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="bai 5.jpg" crc="4286704057" ref="phone>index">
+    <file name="bai3.jpg" crc="4047807489" ref="phone>index:bài-viết-mẫu">
       <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="tap17.jpg" crc="370267119" ref="phone>index">
+    <file name="bai 5.jpg" crc="4286704057" ref="phone>index:bài-viết-mẫu">
       <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="bookimg.jpg" crc="126418321" ref="phone>index:index">
+    <file name="tap17.jpg" crc="370267119" ref="phone>index:bài-viết-mẫu">
       <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+    </file>
+    <file name="bookimg.jpg" crc="126418321" ref="phone>index:index:phone>xem-chữ-ký">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
     </file>
     <file name="tran tuan anh.png" crc="130210398" ref="index">
       <caption webpage="index" alt=""/>
@@ -130,55 +189,66 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter.png" crc="3893893301" ref="phone>index:index:404">
+    <file name="twitter.png" crc="3893893301" ref="phone>index:index:404:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu">
       <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:404:xem-chữ-ký:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:bài-viết-mẫu"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:index:404"/>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:404">
+    <file name="search128px.png" crc="4249554238" ref="index:phone>index">
       <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="404" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="search128px.png" crc="4249554238" ref="index:phone>index:404">
-      <caption webpage="404" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u1675.png" crc="4213662923" ref="index:404"/>
-    <file name="u1675-r.png" crc="4184714438" ref="index:404"/>
-    <file name="u1675-m.png" crc="517616309" ref="index:404"/>
-    <file name="u1675-fs.png" crc="513314608" ref="index:404"/>
+    <file name="u1675.png" crc="4213662923" ref="index:404:xem-chữ-ký:bài-viết-mẫu"/>
+    <file name="u1675-r.png" crc="4184714438" ref="index:404:xem-chữ-ký:bài-viết-mẫu"/>
+    <file name="u1675-m.png" crc="517616309" ref="index:404:xem-chữ-ký:bài-viết-mẫu"/>
+    <file name="u1675-fs.png" crc="513314608" ref="index:404:xem-chữ-ký:bài-viết-mẫu"/>
     <file name="thinkicon.png" crc="4110502276" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="squaread1.jpg" crc="3921788045" ref="index:404">
+    <file name="squaread1.jpg" crc="3921788045" ref="index:404:xem-chữ-ký:bài-viết-mẫu">
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
+    </file>
+    <file name="squaread2.jpg" crc="504661603" ref="index:404:xem-chữ-ký:bài-viết-mẫu">
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
+    </file>
+    <file name="squaread3.jpg" crc="68110876" ref="index:404:xem-chữ-ký:bài-viết-mẫu">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="squaread2.jpg" crc="504661603" ref="index:404">
-      <caption webpage="404" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="squaread3.jpg" crc="68110876" ref="index:404">
-      <caption webpage="404" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="slideside-u55158-r-fr.png" crc="3979170341" ref="phone>index"/>
-    <file name="xckicon-u55110-fr.png" crc="3947703721" ref="phone>index"/>
-    <file name="slideside2-u55032-r-fr.png" crc="3904772646" ref="phone>index"/>
-    <file name="tran tuan anh-u54959-fr.png" crc="4069408832" ref="phone>index"/>
-    <file name="fb128px-u54943-fr.png" crc="376272336" ref="phone>index"/>
-    <file name="gplus-u54944-fr.png" crc="4089446791" ref="phone>index"/>
-    <file name="ytube-u54946-fr.png" crc="4095249335" ref="phone>index"/>
-    <file name="email-u54947-fr.png" crc="4040469459" ref="phone>index"/>
-    <file name="homeicon.png" crc="283272288" ref="index:404">
+    <file name="slideside-u55158-r-fr.png" crc="3979170341" ref="phone>index:phone>bài-viết-mẫu:index"/>
+    <file name="xckicon-u55110-fr.png" crc="3947703721" ref="phone>index:phone>xem-chữ-ký:phone>404"/>
+    <file name="slideside2-u55032-r-fr.png" crc="3904772646" ref="phone>index:index"/>
+    <file name="tran tuan anh-u54959-fr.png" crc="4069408832" ref="phone>index:phone>xem-chữ-ký"/>
+    <file name="fb128px-u54943-fr.png" crc="376272336" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu"/>
+    <file name="gplus-u54944-fr.png" crc="4089446791" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu"/>
+    <file name="ytube-u54946-fr.png" crc="4095249335" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu"/>
+    <file name="email-u54947-fr.png" crc="4040469459" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu"/>
+    <file name="homeicon.png" crc="283272288" ref="index">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -188,27 +258,37 @@
     <file name="bai3-u51774-fr.jpg" crc="430350412" ref="index"/>
     <file name="bai 5-u51778-fr.jpg" crc="4188552199" ref="index"/>
     <file name="tap17-u51779-fr.jpg" crc="3790755318" ref="index"/>
-    <file name="fb128px-u51796-fr.png" crc="418642073" ref="index"/>
-    <file name="gplus-u51798-fr.png" crc="4172511770" ref="index"/>
-    <file name="ytube-u51802-fr.png" crc="298315057" ref="index"/>
-    <file name="email-u51804-fr.png" crc="528494275" ref="index"/>
-    <file name="slideside2-u52645-r-fr.png" crc="3904772646" ref="index"/>
-    <file name="slideside-u52723-r-fr.png" crc="3979170341" ref="index"/>
+    <file name="fb128px-u51796-fr.png" crc="418642073" ref="index:404:bài-viết-mẫu"/>
+    <file name="gplus-u51798-fr.png" crc="4172511770" ref="index:404:bài-viết-mẫu"/>
+    <file name="ytube-u51802-fr.png" crc="298315057" ref="index:404:bài-viết-mẫu"/>
+    <file name="email-u51804-fr.png" crc="528494275" ref="index:404:bài-viết-mẫu"/>
     <file name="default404.jpg" crc="456341713" ref="404">
       <caption webpage="404" alt=""/>
     </file>
-    <file name="fb128px-u60577-fr.png" crc="418642073" ref="404"/>
-    <file name="gplus-u60558-fr.png" crc="4172511770" ref="404"/>
-    <file name="ytube-u60579-fr.png" crc="298315057" ref="404"/>
-    <file name="email-u60581-fr.png" crc="528494275" ref="404"/>
+    <file name="edit icon.png" crc="4057983589" ref="phone>xem-chữ-ký:xem-chữ-ký">
+      <caption webpage="xem-chữ-ký" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
+    </file>
+    <file name="default404-u71535-fr.jpg" crc="4002128935" ref="phone>404"/>
+    <file name="728x90.jpg" crc="4155994860" ref="bài-viết-mẫu">
+      <caption webpage="bài-viết-mẫu" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="374367863" ref="phone>index"/>
-      <file name="index.css" crc="509916155" ref="phone>index"/>
+      <file name="master_a-master.css" crc="486504837" ref="phone>index:phone>bài-viết-mẫu:phone>xem-chữ-ký:phone>404"/>
+      <file name="index.css" crc="3809322371" ref="phone>index"/>
+      <file name="b_i-vi_t-m_u.css" crc="286376065" ref="phone>bài-viết-mẫu"/>
+      <file name="xem-ch_-k_.css" crc="24845398" ref="phone>xem-chữ-ký"/>
+      <file name="404.css" crc="3918525090" ref="phone>404"/>
     </folder>
-    <file name="index.html" crc="4134721600" seo="true" mt="1501576867488" redirect="true"/>
+    <file name="index.html" crc="4096947047" seo="true" mt="1501665317772" redirect="true"/>
+    <file name="xem-chữ-ký.html" crc="228863750" seo="true" mt="1501662112356" redirect="true"/>
+    <file name="404.html" crc="3877029381" seo="true" mt="1501662273416" redirect="true"/>
+    <file name="bài-viết-mẫu.html" crc="3821994293" seo="true" mt="1501665778888" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3759211748" seo="true" mt="1501578715310" redirect="true"/>
-  <file name="404.html" crc="377977394" seo="true" mt="1501579271482" redirect="true"/>
+  <file name="index.html" crc="4116852832" seo="true" mt="1501665113875" redirect="true"/>
+  <file name="404.html" crc="236013065" seo="true" mt="1501665063195" redirect="true"/>
+  <file name="xem-chữ-ký.html" crc="4142473955" seo="true" mt="1501661663212" redirect="true"/>
+  <file name="bài-viết-mẫu.html" crc="4224609012" seo="true" mt="1501665096597" redirect="true"/>
 </manifest>

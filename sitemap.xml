@@ -2,15 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2017-08-01</lastmod>
+    <lastmod>2017-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://index.html/phone/index.html"/>
   </url>
   <url>
     <loc>http://index.html/404.html</loc>
-    <lastmod>2017-08-01</lastmod>
+    <lastmod>2017-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://index.html/phone/404.html"/>
+  </url>
+  <url>
+    <loc>http://index.html/xem-ch%E1%BB%AF-k%C3%BD.html</loc>
+    <lastmod>2017-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://index.html/phone/xem-chữ-ký.html"/>
+  </url>
+  <url>
+    <loc>http://index.html/b%C3%A0i-vi%E1%BA%BFt-m%E1%BA%ABu.html</loc>
+    <lastmod>2017-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://index.html/phone/bài-viết-mẫu.html"/>
   </url>
 </urlset>
